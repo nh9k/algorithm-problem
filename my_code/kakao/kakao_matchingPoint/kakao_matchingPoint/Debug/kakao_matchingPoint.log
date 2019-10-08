@@ -1,0 +1,5 @@
+﻿  kakao_matchingPoint.cpp
+c:\users\nanhee\source\repos\kakao_matchingpoint\kakao_matchingpoint\kakao_matchingpoint.cpp(28): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\nanhee\source\repos\kakao_matchingpoint\kakao_matchingpoint\kakao_matchingpoint.cpp(56): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\nanhee\source\repos\kakao_matchingpoint\kakao_matchingpoint\kakao_matchingpoint.cpp(61): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  kakao_matchingPoint.vcxproj -> C:\Users\Nanhee\source\repos\kakao_matchingPoint\Debug\kakao_matchingPoint.exe

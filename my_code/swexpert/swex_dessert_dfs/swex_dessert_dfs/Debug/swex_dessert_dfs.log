@@ -1,0 +1,15 @@
+﻿  dessert_dfs.cpp
+c:\users\nanhee\source\repos\swex_dessert_dfs\swex_dessert_dfs\dessert_dfs.cpp(55): warning C4805: '==': 연산에 '_Ty' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+          with
+          [
+              _Ty=int
+          ]
+c:\users\nanhee\source\repos\swex_dessert_dfs\swex_dessert_dfs\dessert_dfs.cpp(84): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(243): note: 'freopen' 선언을 참조하십시오.
+c:\users\nanhee\source\repos\swex_dessert_dfs\swex_dessert_dfs\dessert_dfs.cpp(86): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\nanhee\source\repos\swex_dessert_dfs\swex_dessert_dfs\dessert_dfs.cpp(89): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\nanhee\source\repos\swex_dessert_dfs\swex_dessert_dfs\dessert_dfs.cpp(95): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+  swex_dessert_dfs.vcxproj -> C:\Users\Nanhee\source\repos\swex_dessert_dfs\Debug\swex_dessert_dfs.exe

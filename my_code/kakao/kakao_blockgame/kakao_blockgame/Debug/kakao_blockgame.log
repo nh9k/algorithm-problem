@@ -1,0 +1,4 @@
+﻿  kakao_blockgame.cpp
+c:\users\nanhee\source\repos\kakao_blockgame\kakao_blockgame\kakao_blockgame.cpp(170): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\nanhee\source\repos\kakao_blockgame\kakao_blockgame\kakao_blockgame.cpp(172): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  kakao_blockgame.vcxproj -> C:\Users\Nanhee\source\repos\kakao_blockgame\Debug\kakao_blockgame.exe

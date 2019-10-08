@@ -1,0 +1,5 @@
+﻿  kakao_cache.cpp
+c:\users\nanhee\source\repos\kakao_cache\kakao_cache\kakao_cache.cpp(27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\nanhee\source\repos\kakao_cache\kakao_cache\kakao_cache.cpp(38): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\nanhee\source\repos\kakao_cache\kakao_cache\kakao_cache.cpp(52): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+  kakao_cache.vcxproj -> C:\Users\Nanhee\source\repos\kakao_cache\Debug\kakao_cache.exe

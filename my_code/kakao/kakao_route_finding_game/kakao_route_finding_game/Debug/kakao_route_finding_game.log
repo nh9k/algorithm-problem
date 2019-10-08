@@ -1,0 +1,5 @@
+﻿  kakao_route_finding_game.cpp
+c:\users\nanhee\source\repos\kakao_route_finding_game\kakao_route_finding_game\kakao_route_finding_game.cpp(64): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\nanhee\source\repos\kakao_route_finding_game\kakao_route_finding_game\kakao_route_finding_game.cpp(79): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\nanhee\source\repos\kakao_route_finding_game\kakao_route_finding_game\kakao_route_finding_game.cpp(94): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  kakao_route_finding_game.vcxproj -> C:\Users\Nanhee\source\repos\kakao_route_finding_game\Debug\kakao_route_finding_game.exe

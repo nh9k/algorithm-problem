@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "swexpert_swimming_pool_recursion_of_mine", "swexpert_swimming_pool_recursion_of_mine\swexpert_swimming_pool_recursion_of_mine.vcxproj", "{B49C4160-3E12-409D-B33E-8D0A86AC6877}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B49C4160-3E12-409D-B33E-8D0A86AC6877}.Debug|x64.ActiveCfg = Debug|x64
+		{B49C4160-3E12-409D-B33E-8D0A86AC6877}.Debug|x64.Build.0 = Debug|x64
+		{B49C4160-3E12-409D-B33E-8D0A86AC6877}.Debug|x86.ActiveCfg = Debug|Win32
+		{B49C4160-3E12-409D-B33E-8D0A86AC6877}.Debug|x86.Build.0 = Debug|Win32
+		{B49C4160-3E12-409D-B33E-8D0A86AC6877}.Release|x64.ActiveCfg = Release|x64
+		{B49C4160-3E12-409D-B33E-8D0A86AC6877}.Release|x64.Build.0 = Release|x64
+		{B49C4160-3E12-409D-B33E-8D0A86AC6877}.Release|x86.ActiveCfg = Release|Win32
+		{B49C4160-3E12-409D-B33E-8D0A86AC6877}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {794F34E1-7CBD-4871-BC78-8B2303E35B71}
+	EndGlobalSection
+EndGlobal
