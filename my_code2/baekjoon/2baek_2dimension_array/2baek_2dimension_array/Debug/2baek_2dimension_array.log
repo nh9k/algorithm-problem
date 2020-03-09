@@ -1,0 +1,6 @@
+﻿  2baek_2dimension_array.cpp
+c:\users\nanhee\source\repos\2baek_2dimension_array\2baek_2dimension_array\2baek_2dimension_array.cpp(43): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\nanhee\source\repos\2baek_2dimension_array\2baek_2dimension_array\2baek_2dimension_array.cpp(63): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\nanhee\source\repos\2baek_2dimension_array\2baek_2dimension_array\2baek_2dimension_array.cpp(90): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\nanhee\source\repos\2baek_2dimension_array\2baek_2dimension_array\2baek_2dimension_array.cpp(110): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  2baek_2dimension_array.vcxproj -> C:\Users\Nanhee\source\repos\2baek_2dimension_array\Debug\2baek_2dimension_array.exe

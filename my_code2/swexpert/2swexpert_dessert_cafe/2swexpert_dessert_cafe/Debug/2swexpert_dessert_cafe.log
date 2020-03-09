@@ -1,0 +1,5 @@
+﻿  2swexpert_dessert_cafe.cpp
+c:\users\nanhee\source\repos\2swexpert_dessert_cafe\2swexpert_dessert_cafe\2swexpert_dessert_cafe.cpp(30): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\nanhee\source\repos\2swexpert_dessert_cafe\2swexpert_dessert_cafe\2swexpert_dessert_cafe.cpp(50): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(243): note: 'freopen' 선언을 참조하십시오.
+  2swexpert_dessert_cafe.vcxproj -> C:\Users\Nanhee\source\repos\2swexpert_dessert_cafe\Debug\2swexpert_dessert_cafe.exe

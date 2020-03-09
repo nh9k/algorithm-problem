@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2expert_car_repairment", "2expert_car_repairment\2expert_car_repairment.vcxproj", "{E321F3FE-1D19-42CF-80A5-5B358A388093}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E321F3FE-1D19-42CF-80A5-5B358A388093}.Debug|x64.ActiveCfg = Debug|x64
+		{E321F3FE-1D19-42CF-80A5-5B358A388093}.Debug|x64.Build.0 = Debug|x64
+		{E321F3FE-1D19-42CF-80A5-5B358A388093}.Debug|x86.ActiveCfg = Debug|Win32
+		{E321F3FE-1D19-42CF-80A5-5B358A388093}.Debug|x86.Build.0 = Debug|Win32
+		{E321F3FE-1D19-42CF-80A5-5B358A388093}.Release|x64.ActiveCfg = Release|x64
+		{E321F3FE-1D19-42CF-80A5-5B358A388093}.Release|x64.Build.0 = Release|x64
+		{E321F3FE-1D19-42CF-80A5-5B358A388093}.Release|x86.ActiveCfg = Release|Win32
+		{E321F3FE-1D19-42CF-80A5-5B358A388093}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E1B0E83-38F7-481B-AF44-AD61C4CD24C3}
+	EndGlobalSection
+EndGlobal

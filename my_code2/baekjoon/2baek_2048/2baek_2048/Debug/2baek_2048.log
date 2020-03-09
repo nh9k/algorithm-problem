@@ -1,0 +1,6 @@
+﻿  2baek_2048.cpp
+c:\users\nanhee\source\repos\2baek_2048\2baek_2048\2baek_2048.cpp(31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\nanhee\source\repos\2baek_2048\2baek_2048\2baek_2048.cpp(59): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\nanhee\source\repos\2baek_2048\2baek_2048\2baek_2048.cpp(87): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\nanhee\source\repos\2baek_2048\2baek_2048\2baek_2048.cpp(115): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  2baek_2048.vcxproj -> C:\Users\Nanhee\source\repos\2baek_2048\Debug\2baek_2048.exe
