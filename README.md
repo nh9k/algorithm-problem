@@ -4,16 +4,7 @@
 
 The `my_code` and `my_code2` directories should look like this:
 
-    my_code
-    戍式式 baekjoon
-    戍式式 kakao(pragrammers)
-    戌式式 swexpert
-
-	my_code2
-	戍式式 baekjoon
-	戍式式 kakao
-	戍式式 programmers
-	戌式式 swexpert
+![譫籀](https://user-images.githubusercontent.com/56310078/76786231-35c7e880-67fa-11ea-8ab5-e395694ae064.JPG)
 
 
 ## Author
