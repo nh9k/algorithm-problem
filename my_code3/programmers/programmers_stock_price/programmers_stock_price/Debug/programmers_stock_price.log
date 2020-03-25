@@ -1,0 +1,6 @@
+﻿  programmers_stock_price.cpp
+c:\users\nanhee\source\repos\programmers_stock_price\programmers_stock_price\programmers_stock_price.cpp(12): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\nanhee\source\repos\programmers_stock_price\programmers_stock_price\programmers_stock_price.cpp(28): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\nanhee\source\repos\programmers_stock_price\programmers_stock_price\programmers_stock_price.cpp(41): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\nanhee\source\repos\programmers_stock_price\programmers_stock_price\programmers_stock_price.cpp(71): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  programmers_stock_price.vcxproj -> C:\Users\Nanhee\source\repos\programmers_stock_price\Debug\programmers_stock_price.exe

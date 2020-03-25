@@ -1,0 +1,5 @@
+﻿  baek_tree_jae_tech.cpp
+c:\users\nanhee\source\repos\baek_tree_jae_tech\baek_tree_jae_tech\baek_tree_jae_tech.cpp(50): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\nanhee\source\repos\baek_tree_jae_tech\baek_tree_jae_tech\baek_tree_jae_tech.cpp(63): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\nanhee\source\repos\baek_tree_jae_tech\baek_tree_jae_tech\baek_tree_jae_tech.cpp(130): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  baek_tree_jae_tech.vcxproj -> C:\Users\Nanhee\source\repos\baek_tree_jae_tech\Debug\baek_tree_jae_tech.exe

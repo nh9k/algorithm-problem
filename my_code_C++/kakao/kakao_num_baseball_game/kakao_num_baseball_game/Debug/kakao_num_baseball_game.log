@@ -1,5 +1,0 @@
-﻿  kakao_num_baseball_game.cpp
-c:\users\nanhee\source\repos\kakao_num_baseball_game\kakao_num_baseball_game\kakao_num_baseball_game.cpp(62): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-c:\users\nanhee\source\repos\kakao_num_baseball_game\kakao_num_baseball_game\kakao_num_baseball_game.cpp(64): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-c:\users\nanhee\source\repos\kakao_num_baseball_game\kakao_num_baseball_game\kakao_num_baseball_game.cpp(88): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
-  kakao_num_baseball_game.vcxproj -> C:\Users\Nanhee\source\repos\kakao_num_baseball_game\Debug\kakao_num_baseball_game.exe

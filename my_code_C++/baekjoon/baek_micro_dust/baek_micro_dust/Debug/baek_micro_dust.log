@@ -1,3 +1,0 @@
-﻿  baek_micro_dust.cpp
-c:\users\nanhee\source\repos\baek_micro_dust\baek_micro_dust\baek_micro_dust.cpp(54): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  baek_micro_dust.vcxproj -> C:\Users\Nanhee\source\repos\baek_micro_dust\Debug\baek_micro_dust.exe

@@ -2,23 +2,26 @@
 
 ## algorithm practice  
 
-The `my_code` and `my_code2` directories should look like this:
+directories:
 
-		my_code
+		my_code1_c++ (2019.09)
             ├── baekjoon
-            ├── kakao(programmers)
+            ├── kakao(in programmers)
             └── swexpert
 
-		my_code2
+		my_code2_c++ (2019.10)
             ├── baekjoon
-            ├── kakao
+            ├── kakao(in programmers)
             ├── programmers
             └── swexpert
 
-		my_code2_python
+		my_code2_python (2020.01)
             ├── basic
             ├── programmers
             └── swexpert
+
+		my_code3 (2020.03)
+            └── programmers
 
 ## Author
 Nanhee Kim / [@nh9k](https://github.com/nh9k)

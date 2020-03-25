@@ -1,0 +1,4 @@
+﻿  baek_operator_insert.cpp
+c:\users\nanhee\source\repos\baek_operator_insert\baek_operator_insert\baek_operator_insert.cpp(34): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\nanhee\source\repos\baek_operator_insert\baek_operator_insert\baek_operator_insert.cpp(35): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  baek_operator_insert.vcxproj -> C:\Users\Nanhee\source\repos\baek_operator_insert\Debug\baek_operator_insert.exe
