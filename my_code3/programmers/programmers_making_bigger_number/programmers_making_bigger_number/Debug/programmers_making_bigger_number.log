@@ -1,0 +1,7 @@
+﻿  programmers_making_bigger_number.cpp
+c:\users\nanhee\source\repos\programmers_making_bigger_number\programmers_making_bigger_number\programmers_making_bigger_number.cpp(11): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\nanhee\source\repos\programmers_making_bigger_number\programmers_making_bigger_number\programmers_making_bigger_number.cpp(22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\nanhee\source\repos\programmers_making_bigger_number\programmers_making_bigger_number\programmers_making_bigger_number.cpp(32): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\nanhee\source\repos\programmers_making_bigger_number\programmers_making_bigger_number\programmers_making_bigger_number.cpp(39): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\nanhee\source\repos\programmers_making_bigger_number\programmers_making_bigger_number\programmers_making_bigger_number.cpp(46): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  programmers_making_bigger_number.vcxproj -> C:\Users\Nanhee\source\repos\programmers_making_bigger_number\Debug\programmers_making_bigger_number.exe
