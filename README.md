@@ -21,7 +21,7 @@ directories:
             └── swexpert(+1)
 
 		my_code3 (2020.03-2020.04)(+8)
-			├── basic(+2)
+            ├── basic(+2)
             └── programmers(+6)
 
 
