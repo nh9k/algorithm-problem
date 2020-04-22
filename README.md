@@ -1,4 +1,4 @@
-# algorithm_problem
+# algorithm-problem
 
 ## algorithm practice  
 
