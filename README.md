@@ -20,10 +20,11 @@ directories:
             ├── programmers(+8)
             └── swexpert(+1)
 
-		my_code3 (2020.03-2020.04)(+8)
+		my_code3 (2020.03-2020.04)(+10)
             ├── basic(+2)
-            └── programmers(+6)
+            ├── programmers(+6)
+            └── swexpert(+2)
 
 
 ## Author
-Nanhee Kim / [@nh9k](https://github.com/nh9k)
+Nanhee Kim / [@nh9k](https://github.com/nh9k) / [PersonalBlog](https://blog.naver.com/kimnanhee97)
