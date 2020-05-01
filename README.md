@@ -23,7 +23,7 @@ directories:
 		my_code3 (2020.03-2020.04)(+10)
             ├── basic(+2)
             ├── programmers(+6)
-            └── swexpert(+2)
+            └── baekjoon(+4)
 
 
 ## Author
