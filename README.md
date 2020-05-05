@@ -20,7 +20,7 @@ directories:
             ├── programmers(+8)
             └── swexpert(+1)
 
-		my_code3 (2020.03-2020.04)(+12)
+		my_code3 (2020.03-)(+12)
             ├── basic(+2)
             ├── programmers(+6)
             └── baekjoon(+6)
