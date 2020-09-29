@@ -25,8 +25,8 @@ directories:
             ├── programmers(+6)
             └── baekjoon(+9)
 
-		my_code4 (2020.09)(c++)(python)(+4)
-            └── programmers(+4)
+		my_code4 (2020.09)(c++)(python)(+6)
+            └── programmers(+6)
 
 ## Author
 Nanhee Kim / [@nh9k](https://github.com/nh9k) / [PersonalBlog](https://blog.naver.com/kimnanhee97)
