@@ -1,32 +1,27 @@
 # algorithm-problem
 
-## algorithm practice  
+[baekjoon](https://www.acmicpc.net/)
+[programmers](https://programmers.co.kr/learn/challenges)
+[swexpert](https://swexpertacademy.com/main/main.do)
 
-directories:
++145 problems in directories:
 
-		my_code1_c++ (2019.09)(c++)(+72)
-            ├── baekjoon(+30)
-            ├── kakao(in programmers)(+17)
-            └── swexpert(+25)
+		c++ (+126)
+        ├── 2019_baekjoon(+39)
+        ├── 2019_kakao(programmers)(+19)
+		├── 2019_programmers(+2)
+        ├── 2019_swexpert(+37)
+		├
+		├── 2020_baekjoon(+15)
+		├── 2020_basic(+2)
+		└── 2020_programmers(+12)
 
-		my_code2_c++ (2019.10)(c++)(+25)
-            ├── baekjoon(+9)
-            ├── kakao(in programmers)(+2)
-            ├── programmers(+2)
-            └── swexpert(+12)
-
-		my_code2_python (2020.01)(python)(+12)
-            ├── basic(+3)
-            ├── programmers(+8)
-            └── swexpert(+1)
-
-		my_code3 (2020.03)(c++)(+17)
-            ├── basic(+2)
-            ├── programmers(+6)
-            └── baekjoon(+9)
-
-		my_code4 (2020.09)(c++)(python)(+7)
-            └── programmers(+7)
+		python (+19)
+        ├── 2020_basic(+3)
+        ├── 2020_programmers(+14)
+        ├── 2020_swexpert(+1)
+		├
+		└── 2021_programmers(+1)
 
 ## Author
-Nanhee Kim / [@nh9k](https://github.com/nh9k) / [PersonalBlog](https://blog.naver.com/kimnanhee97)
+Nanhee Kim / [@nh9k](https://github.com/nh9k) / [blog](https://blog.naver.com/kimnanhee97)

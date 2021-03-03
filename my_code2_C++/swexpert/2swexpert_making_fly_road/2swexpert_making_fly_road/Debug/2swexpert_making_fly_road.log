@@ -1,4 +1,0 @@
-﻿  2swexpert_making_fly_road.cpp
-c:\users\nanhee\source\repos\2swexpert_making_fly_road\2swexpert_making_fly_road\2swexpert_making_fly_road.cpp(151): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(243): note: 'freopen' 선언을 참조하십시오.
-  2swexpert_making_fly_road.vcxproj -> C:\Users\Nanhee\source\repos\2swexpert_making_fly_road\Debug\2swexpert_making_fly_road.exe

@@ -1,5 +1,0 @@
-﻿  programmers_skill_trees.cpp
-c:\users\nanhee\source\repos\programmers_skill_trees\programmers_skill_trees\programmers_skill_trees.cpp(11): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-c:\users\nanhee\source\repos\programmers_skill_trees\programmers_skill_trees\programmers_skill_trees.cpp(16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-c:\users\nanhee\source\repos\programmers_skill_trees\programmers_skill_trees\programmers_skill_trees.cpp(20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-  programmers_skill_trees.vcxproj -> C:\Users\Nanhee\source\repos\programmers_skill_trees\Debug\programmers_skill_trees.exe

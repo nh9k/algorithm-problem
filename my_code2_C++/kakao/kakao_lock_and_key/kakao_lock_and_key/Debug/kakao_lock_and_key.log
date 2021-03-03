@@ -1,4 +1,0 @@
-﻿  kakao_lock_and_key.cpp
-c:\users\nanhee\source\repos\kakao_lock_and_key\kakao_lock_and_key\kakao_lock_and_key.cpp(13): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-c:\users\nanhee\source\repos\kakao_lock_and_key\kakao_lock_and_key\kakao_lock_and_key.cpp(14): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-  kakao_lock_and_key.vcxproj -> C:\Users\Nanhee\source\repos\kakao_lock_and_key\Debug\kakao_lock_and_key.exe
