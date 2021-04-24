@@ -20,12 +20,12 @@
 		├── 2021_kakao(programmers)(+1)
 		└── 2021_programmers(+2)
 
-		python (+30)
+		python (+31)
 		├── 2020_basic(+3)
 		├── 2020_programmers(+19)
 		├── 2020_swexpert(+1)
 		├		...  
-		├── 2021_swexpert(+1)
+		├── 2021_swexpert(+2)
 		└── 2021_programmers(+6)
 
 ## Author
