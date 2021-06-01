@@ -32,7 +32,7 @@ if __name__ == '__main__':
     for i, line in enumerate(lines):
 
         if line.find('problems in directories') != -1:
-            line = str(sum([sum(globals()[x]) for x in inspect_dir])) + ' problems in directories:   \n'
+            lines[i] = str(sum([globals()[x][0] for x in inspect_dir])) + ' problems in directories:   \n'
         elif line.find(inspect_dir[dir_idx]) != -1:
             for l in range(0, 5 if dir_idx != 2 else 1):
                 stpoint = lines[i+l].find('(')
