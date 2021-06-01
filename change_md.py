@@ -48,6 +48,8 @@ if __name__ == '__main__':
         for i, line in enumerate(lines):
             f.write(line)
 
+    print('completed')
+
 
 
 
