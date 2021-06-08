@@ -1,19 +1,19 @@
-# algorithm-problem
+# algorithm-problems
 
 [baekjoon](https://www.acmicpc.net/) / [programmers](https://programmers.co.kr/learn/challenges) / [swexpert](https://swexpertacademy.com/main/main.do)  
 
 
-188 problems in directories:   
+189 problems in directories:   
 
 		cpp(+148)
 		├── baekjoon(+68)
-		├── programmers(+15)
+		├── programmers(+35)
 		├── swexpert(+43)
-		└── others(+22)
+		└── others(+2)
 
-		python(+37)
+		python(+38)
 		├── baekjoon(+1)
-		├── programmers(+30)
+		├── programmers(+31)
 		├── swexpert(+3)
 		└── others(+3)
 

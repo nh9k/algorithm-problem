@@ -14,15 +14,12 @@ if __name__ == '__main__':
 
         sourcelist = next(os.walk(dirname))[2]
         globals()[dirname][0] = len(sourcelist)
+        problem_name = {'baek':1,'programmers':2, 'kakao':2, 'swex':3, 'basic':4}
         for source in sourcelist:
-            if source.find('baek') != -1:
-                globals()[dirname][1] += 1
-            elif source.find('programmers') != -1:
-                globals()[dirname][2] += 1
-            elif source.find('swex') != -1:
-                globals()[dirname][3] += 1
-            else:
-                globals()[dirname][4] += 1
+            for k, v in problem_name.items():
+                if k in source:
+                    globals()[dirname][v] += 1
+                    break
 
     mdfile = 'README.md'
     f = open(mdfile, 'r', encoding='UTF8')
